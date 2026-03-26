@@ -1,5 +1,5 @@
 import java.util.*;
-class SumOfThree{
+class SumOfThree15{
     public static void main(String[] args) {
         int nums[] = {0,1,1};
         System.out.println(threeSum(nums));
